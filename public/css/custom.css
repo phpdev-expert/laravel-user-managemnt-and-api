@@ -1,0 +1,13 @@
+body:not(.sidebar-mini-md):not(.sidebar-mini-xs):not(.layout-top-nav) .content-wrapper,
+body:not(.sidebar-mini-md):not(.sidebar-mini-xs):not(.layout-top-nav) .main-footer,
+body:not(.sidebar-mini-md):not(.sidebar-mini-xs):not(.layout-top-nav) .main-header{
+  margin-left:0;
+}
+.container, .container-lg, .container-md, .container-sm, .container-xl {
+    max-width: 1500px;
+}
+.table th{width:7%;text-align:center;font-size:20px;}
+.table td.weekly-time-div{width:2%;}
+.table.table-w-100{width:120%;}
+.table.table-w-150{width:220%;}
+.table.table-w-200{width:270%;}
